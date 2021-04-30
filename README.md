@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Python0r
-- 👀 I’m interested in python and machine learing 
+- 👀 I’m interested in python and machine learning 
 - 🌱 I’m currently learning GNN
 - 💞️ I’m teaching python 
